@@ -9,3 +9,7 @@ Following tutorial for:
 
 * <https://circleci.com/blog/ssh-vs-local-jobs-two-forms-of-debugging-and-when-to-do-them/>
 
+
+
+Add To Comment To Skip CircleCI Build [ci skip]
+
