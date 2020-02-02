@@ -2,6 +2,7 @@
 
 Badge added by following [CircleCi Badge instructions](<https://circleci.com/docs/2.0/status-badges/>)
 [![CircleCI](https://circleci.com/gh/wuclark/circleci-101.svg?style=svg)](<https://circleci.com//gh/wuclark/circleci-101.svg>)
+can get and set from <https://circleci.com/gh/wuclark/circleci-101/edit#badges>
 
 
 Following tutorial for:
